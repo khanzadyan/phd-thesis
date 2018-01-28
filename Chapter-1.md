@@ -27,13 +27,13 @@ The research case presented in the previous section suggests some clues which ar
 
 It was already obvious before the HH-object detection that it is possible to point to the places where stars are forming by “looking” into them, because the process should leave some distinct marks which should give some answers (see [Ambartsumian R.V., 1998](https://link.springer.com/article/10.1007/BF02894658), for a review). But it was only after the HH-object detection that the possibility to track-down the source appeared. The optical HH objects were already “pointing” to the direction of the possible source in the dark, obscured from optical wavelength, regions. This phenomena raised the question: **Would it be possible to pin-point the source in the dark cloud?** Later on, the radio observations, in the case of the HH 1/2 system, reveled the presence of the source which was deeply embedded in the circumstellar environment.
 
-![HH1 jet](/assets/img/hh1-jet.png "HH1 jet")
+![HH1 jet](/assets/img/HH1-jet.png "HH1 jet")
 
 **Figure 1.1:** *The HH 1 jet picture taken from Raines et al. (2000). The upper two panels show the clear advantage of the infrared imaging in comparison to the optical ones on the lower two panels.*
 
 The fact that HH objects are created by shock-exciting the media was realised later on from atomic spectroscopic study of the regions of HH objects. It was also realised that if there is enough force to shock-excite the interstellar atoms then it would also be enough power to shock-excite the molecules in the interstellar medium (ISM). But the main interstellar molecule was H2, and it was obvious that the radiation from that molecule should be possible to trace. The theory suggested the UV end and the IR could be the possible observing windows for that, both almost impossible to observe from the ground due to water vapour in the atmosphere. The alternative for observing the H2 excitation was to observe their rotational-vibrational excitation lines in the Near-Infrared. This was done consequently but the technique at that time (the end of 1970’s) was not good enough to image something. But the spectroscopical observations proved the presence of rotational-vibrational excitation lines in the HH objects. The significant contribution of the Near-Infrared started to appear only after the advent of a new generation of near-infrared CCDs, which were sensitive enough to detect and image the HH-objects in the Near-Infrared. Then because the Near-Infrared can probe deeper into the dark clouds, it was possible to track-down the IR counterparts of the HH objects. Figure 1.1 shows the recent result of the HH 1 jet observations in the optical and near-infrared from the HST. The astonishing fact is that the near-infrared can track down the outflow closer to the source than optical.
 
-![HH211 outflow](/assets/img/hh211.png "HH211 outflow")
+![HH211 outflow](/assets/img/HH211.png "HH211 outflow")
 
 **Figure 1.2:** *The HH 211 highly collimated bipolar jet located in the IC 348IR region. The jet has so far only been detected in molecular hydrogen near-infrared imaging by McCaughrean, Rayner, & Zinnecker (1994).*
 
