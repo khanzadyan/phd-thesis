@@ -3,6 +3,14 @@
 > “I have already said that he must have gone to King’s Pyland or to Mapleton. He is not at King’s Pyland. Therefore he is at Mapleton. Let us take that as a working hypothesis and see what it leads us to. This part of the moor, as the inspector remarked, is very hard and dry. But it falls away towards Mapleton, and you can see from here that there is a long hollow over yonder, which must have been very wet on Monday night. If our supposition is correct, then the horse must have crossed that, and there is the point where we should look for his tracks.”
 > – Sherlock Holmes, Silver Blaze
 
+Table of Contents
+
+*   [Footprints of star-formation](#footprints-of-star-formation)
+*   [Tracking back to the source](#tracking-back-to-the-source)
+*   [Questions to be asked on this stage](#questions-to-be-asked-on-this-stage)
+*   [The main Aim of this thesis](the-main-aim-of-this-thesis)
+
+
 ## Footprints of star-formation
 
 Astrophysicists like criminologists are used to searching for “tracks” which could give them an important clues to uncover the “crime” – the astrophysical process. This usually starts with hypotheses and evolves towards the theory which is set to explain the supposition.
@@ -19,13 +27,13 @@ The research case presented in the previous section suggests some clues which ar
 
 It was already obvious before the HH-object detection that it is possible to point to the places where stars are forming by “looking” into them, because the process should leave some distinct marks which should give some answers (see [Ambartsumian R.V., 1998](https://link.springer.com/article/10.1007/BF02894658), for a review). But it was only after the HH-object detection that the possibility to track-down the source appeared. The optical HH objects were already “pointing” to the direction of the possible source in the dark, obscured from optical wavelength, regions. This phenomena raised the question: **Would it be possible to pin-point the source in the dark cloud?** Later on, the radio observations, in the case of the HH 1/2 system, reveled the presence of the source which was deeply embedded in the circumstellar environment.
 
-![HH1 jet](hh1-jet.png "HH1 jet")
+![HH1 jet](/assets/img/hh1-jet.png "HH1 jet")
 
 Figure 1.1: The HH 1 jet picture taken from Raines et al. (2000). The upper two panels show the clear advantage of the infrared imaging in comparison to the optical ones on the lower two panels.
 
 The fact that HH objects are created by shock-exciting the media was realised later on from atomic spectroscopic study of the regions of HH objects. It was also realised that if there is enough force to shock-excite the interstellar atoms then it would also be enough power to shock-excite the molecules in the interstellar medium (ISM). But the main interstellar molecule was H2, and it was obvious that the radiation from that molecule should be possible to trace. The theory suggested the UV end and the IR could be the possible observing windows for that, both almost impossible to observe from the ground due to water vapour in the atmosphere. The alternative for observing the H2 excitation was to observe their rotational-vibrational excitation lines in the Near-Infrared. This was done consequently but the technique at that time (the end of 1970’s) was not good enough to image something. But the spectroscopical observations proved the presence of rotational-vibrational excitation lines in the HH objects. The significant contribution of the Near-Infrared started to appear only after the advent of a new generation of near-infrared CCDs, which were sensitive enough to detect and image the HH-objects in the Near-Infrared. Then because the Near-Infrared can probe deeper into the dark clouds, it was possible to track-down the IR counterparts of the HH objects. Figure 1.1 shows the recent result of the HH 1 jet observations in the optical and near-infrared from the HST. The astonishing fact is that the near-infrared can track down the outflow closer to the source than optical.
 
-![HH211 outflow](hh211.png "HH211 outflow")
+![HH211 outflow](/assets/img/hh211.png "HH211 outflow")
 
 Figure 1.2: The HH 211 highly collimated bipolar jet located in the IC 348IR region. The jet has so far only been detected in molecular hydrogen near-infrared imaging by McCaughrean, Rayner, & Zinnecker (1994).
 
@@ -40,7 +48,7 @@ The discovery of parsec scale jets changed our view of star-formation. How and w
 
 This all shows that the study of the sites of interaction with the environment can spread light on the properties of the star-formation events. In this sense, tracking the H2 knots, which are the direct interaction places, can tell us about the star itself.
 
-Now it is possible to understand how stars are forming without seeing them. The prvious research tended to go closer and closer to the hypothetical source in order to reveal the mystery of the formation, but due to new evidence, we found ourselves searching further and further from the source.
+Now it is possible to understand how stars are forming without seeing them. The previous research tended to go closer and closer to the hypothetical source in order to reveal the mystery of the formation, but due to new evidence, we found ourselves searching further and further from the source.
 
 ## Questions to be asked on this stage
 
@@ -48,15 +56,15 @@ There is more and more observational evidence in recent literature, which sugges
 
 To test these preliminary thoughts, I specify some questions below, which might outline the particular directions where I would like to seek the answers in order to build the “case”.
 
-* **Is there any isolated star-formation?** This question is important in the sense that if isolated star-formation exists, then the models of star-formation can be well tested there. The reality is that the star-formation phenomena is widely observed and studied in the places where they firstly were found - in Molecular Clouds complexes such as Orion Molecular Cloud (OMC-I Stanke, 2000) and others, where the processes of formation and evolution can not be isolated. On the other hand there are small molecular clouds, such as Bok Globules (Bok & Reilly, 1947), which can indeed provide useful insights on isolated star-formation (Yun & Clemens, 1994a, 1995; Alves & Yun, 1995; Moreira & Yun, 1995; Khanzadyan et al., 2002a).
+*   **Is there any isolated star-formation?** This question is important in the sense that if isolated star-formation exists, then the models of star-formation can be well tested there. The reality is that the star-formation phenomena is widely observed and studied in the places where they firstly were found - in Molecular Clouds complexes such as Orion Molecular Cloud (OMC-I Stanke, 2000) and others, where the processes of formation and evolution can not be isolated. On the other hand there are small molecular clouds, such as Bok Globules (Bok & Reilly, 1947), which can indeed provide useful insights on isolated star-formation (Yun & Clemens, 1994a, 1995; Alves & Yun, 1995; Moreira & Yun, 1995; Khanzadyan et al., 2002a).
 
-* **What is an outflow in general?** This is a rather broad question and from the first glance it seems that there is sufficient scientific works done to explain the phenomena. But there is a need to explore the outflow structure in detail to constrain the new kind of models which will account for ISM chemistry and magnetic fields.
+*   **What is an outflow in general?** This is a rather broad question and from the first glance it seems that there is sufficient scientific works done to explain the phenomena. But there is a need to explore the outflow structure in detail to constrain the new kind of models which will account for ISM chemistry and magnetic fields.
 
-* **How does the outflow interact with the environment?** The outflows do interact with the environment, there is no doubt in this. Otherwise we would not have HH and H2 objects, but how does this interaction responds back and changes the structure of the outflow? How does the magnetic field interact with the ad- vancing flow and how crucial can that be for outflows? Can that change the shape and direction of the outflow?
+*   **How does the outflow interact with the environment?** The outflows do interact with the environment, there is no doubt in this. Otherwise we would not have HH and H2 objects, but how does this interaction responds back and changes the structure of the outflow? How does the magnetic field interact with the advancing flow and how crucial can that be for outflows? Can that change the shape and direction of the outflow?
 
-* **Can the outflow change the course of star-formation?** This is the question to which intuitively can be answered “YES”. But there is no clear evidence. It is logical to suppose that the outflows should change the environment and then the changed environment should change the course of star-formation, but how? The shocks from supernovae can change the environment dramatically, which can even cause a burst of star formation after all. But are the outflows from protostars powerful enough to change the environment so dramatically? There are outflows which are powerful enough to compress the material to high enough densities to enable the collapse of the media in the next 106 years or so. This can eventually cause the formation of one or a few stars - not much! But if we take one aggregate and suppose that the star-formation was going-on 106 years then if we take that in every 104 years we have an outflow event, there would be at least 100 outflows ejected through the medium. In small clouds this quantity can cause the disruption of the medium.
+*   **Can the outflow change the course of star-formation?** This is the question to which intuitively can be answered “YES”. But there is no clear evidence. It is logical to suppose that the outflows should change the environment and then the changed environment should change the course of star-formation, but how? The shocks from supernovae can change the environment dramatically, which can even cause a burst of star formation after all. But are the outflows from protostars powerful enough to change the environment so dramatically? There are outflows which are powerful enough to compress the material to high enough densities to enable the collapse of the media in the next 106 years or so. This can eventually cause the formation of one or a few stars - not much! But if we take one aggregate and suppose that the star-formation was going-on 106 years then if we take that in every 104 years we have an outflow event, there would be at least 100 outflows ejected through the medium. In small clouds this quantity can cause the disruption of the medium.
 
-* **Is there any differences between the outflows in molecular clouds of different sizes?** This remains a dilemma, because if the environment is “saturated” with outflows like in molecular cloud complexes, then it is hard to determine the real extent of the outflows. We are subject to selective effects. On the other hand, if we have some media where there are not many outflows around, it is probable to find and track down one or more outflows but it is hard to do statistics on that small number. Larger numbers of isolated sites are then needed. It might be possible that these two media cannot be compared at all due to possible different outflow emanation mechanisms.
+*   **Is there any differences between the outflows in molecular clouds of different sizes?** This remains a dilemma, because if the environment is “saturated” with outflows like in molecular cloud complexes, then it is hard to determine the real extent of the outflows. We are subject to selective effects. On the other hand, if we have some media where there are not many outflows around, it is probable to find and track down one or more outflows but it is hard to do statistics on that small number. Larger numbers of isolated sites are then needed. It might be possible that these two media cannot be compared at all due to possible different outflow emanation mechanisms.
 
 ## The main Aim of this thesis
 
@@ -69,10 +77,10 @@ I have selected a sample of close-by examples in order to derive the detailed ch
 
 In the end, I expect to be able to derive some conclusive ideas for star formation which compares the different environments like Bok Globules, Rho Ophiuchus etc. For this purposes I have structured the thesis as follows:
 
-* In Chapter 2, I will give an overview of Star Formation theory and observations which are applicable to the data and work of this thesis. I follow the path: Molecular Clouds → Protostars → the outflows.
-* In Chapter 3, I will describe the observations of three different types of objects that have been carried out in the course of this study, which will be followed every time by the data reduction and analysis technique description.
-* In Chapter 4, I will describe the results and discussion for the Bok Globules project.
-* Chapter 5 will be dedicated to the results and discussion of the outflow project.
-* In Chapter 6, I will describe the on-going project on Rho-Ophiuchus.
-* Chapter 7 will be dedicated to the general discussion, which will bring together three described projects.
-* And finally in Chapter 8, I will present the conclusions of this thesis followed by the prospects for future work.
+*   In Chapter 2, I will give an overview of Star Formation theory and observations which are applicable to the data and work of this thesis. I follow the path: Molecular Clouds → Protostars → the outflows.
+*   In Chapter 3, I will describe the observations of three different types of objects that have been carried out in the course of this study, which will be followed every time by the data reduction and analysis technique description.
+*   In Chapter 4, I will describe the results and discussion for the Bok Globules project.
+*   Chapter 5 will be dedicated to the results and discussion of the outflow project.
+*   In Chapter 6, I will describe the on-going project on Rho-Ophiuchus.
+*   Chapter 7 will be dedicated to the general discussion, which will bring together three described projects.
+*   And finally in Chapter 8, I will present the conclusions of this thesis followed by the prospects for future work.
