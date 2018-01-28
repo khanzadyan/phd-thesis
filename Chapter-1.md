@@ -3,7 +3,7 @@
 > “I have already said that he must have gone to King’s Pyland or to Mapleton. He is not at King’s Pyland. Therefore he is at Mapleton. Let us take that as a working hypothesis and see what it leads us to. This part of the moor, as the inspector remarked, is very hard and dry. But it falls away towards Mapleton, and you can see from here that there is a long hollow over yonder, which must have been very wet on Monday night. If our supposition is correct, then the horse must have crossed that, and there is the point where we should look for his tracks.”
 > – Sherlock Holmes, Silver Blaze
 
-Table of Contents
+**Table of Contents**
 
 *   [Footprints of star-formation](#footprints-of-star-formation)
 *   [Tracking back to the source](#tracking-back-to-the-source)
