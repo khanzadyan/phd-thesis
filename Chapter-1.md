@@ -29,13 +29,13 @@ It was already obvious before the HH-object detection that it is possible to poi
 
 ![HH1 jet](/assets/img/hh1-jet.png "HH1 jet")
 
-Figure 1.1: The HH 1 jet picture taken from Raines et al. (2000). The upper two panels show the clear advantage of the infrared imaging in comparison to the optical ones on the lower two panels.
+**Figure 1.1:** *The HH 1 jet picture taken from Raines et al. (2000). The upper two panels show the clear advantage of the infrared imaging in comparison to the optical ones on the lower two panels.*
 
 The fact that HH objects are created by shock-exciting the media was realised later on from atomic spectroscopic study of the regions of HH objects. It was also realised that if there is enough force to shock-excite the interstellar atoms then it would also be enough power to shock-excite the molecules in the interstellar medium (ISM). But the main interstellar molecule was H2, and it was obvious that the radiation from that molecule should be possible to trace. The theory suggested the UV end and the IR could be the possible observing windows for that, both almost impossible to observe from the ground due to water vapour in the atmosphere. The alternative for observing the H2 excitation was to observe their rotational-vibrational excitation lines in the Near-Infrared. This was done consequently but the technique at that time (the end of 1970’s) was not good enough to image something. But the spectroscopical observations proved the presence of rotational-vibrational excitation lines in the HH objects. The significant contribution of the Near-Infrared started to appear only after the advent of a new generation of near-infrared CCDs, which were sensitive enough to detect and image the HH-objects in the Near-Infrared. Then because the Near-Infrared can probe deeper into the dark clouds, it was possible to track-down the IR counterparts of the HH objects. Figure 1.1 shows the recent result of the HH 1 jet observations in the optical and near-infrared from the HST. The astonishing fact is that the near-infrared can track down the outflow closer to the source than optical.
 
 ![HH211 outflow](/assets/img/hh211.png "HH211 outflow")
 
-Figure 1.2: The HH 211 highly collimated bipolar jet located in the IC 348IR region. The jet has so far only been detected in molecular hydrogen near-infrared imaging by McCaughrean, Rayner, & Zinnecker (1994).
+**Figure 1.2:** *The HH 211 highly collimated bipolar jet located in the IC 348IR region. The jet has so far only been detected in molecular hydrogen near-infrared imaging by McCaughrean, Rayner, & Zinnecker (1994).*
 
 But this ability of tracking down the outflows closer to the source was not the only advantage of Near-Infrared imaging. The later observations of star-formation regions reveal the presence of many outflow structures which have no optical counterparts. Figure 1.2 displays the HH 211 outflow which was detected firstly in the molecular hydrogen near-infrared imaging by McCaughrean, Rayner, & Zinnecker (1994) and does not have any optical counterparts. This was suggesting that the outflow was so young that it still could not escape the cloud to be seen in the optical. Actually, the HH 211 outflow amongst the youngest ones, just over the 1000 years.
 
@@ -52,7 +52,7 @@ Now it is possible to understand how stars are forming without seeing them. The 
 
 ## Questions to be asked on this stage
 
-There is more and more observational evidence in recent literature, which suggest that star- formation is not a stand-alone phenomenom. There are interactions with the environment dur- ing the whole process. In some sense, during the process of star-formation evolution, the environment also changes and interacts back, creating some interactive equilibrium or, rephrased, works in unison.
+There is more and more observational evidence in recent literature, which suggest that star-formation is not a stand-alone phenomenom. There are interactions with the environment during the whole process. In some sense, during the process of star-formation evolution, the environment also changes and interacts back, creating some interactive equilibrium or, rephrased, works in unison.
 
 To test these preliminary thoughts, I specify some questions below, which might outline the particular directions where I would like to seek the answers in order to build the “case”.
 
@@ -77,10 +77,10 @@ I have selected a sample of close-by examples in order to derive the detailed ch
 
 In the end, I expect to be able to derive some conclusive ideas for star formation which compares the different environments like Bok Globules, Rho Ophiuchus etc. For this purposes I have structured the thesis as follows:
 
-*   In Chapter 2, I will give an overview of Star Formation theory and observations which are applicable to the data and work of this thesis. I follow the path: Molecular Clouds → Protostars → the outflows.
-*   In Chapter 3, I will describe the observations of three different types of objects that have been carried out in the course of this study, which will be followed every time by the data reduction and analysis technique description.
-*   In Chapter 4, I will describe the results and discussion for the Bok Globules project.
-*   Chapter 5 will be dedicated to the results and discussion of the outflow project.
-*   In Chapter 6, I will describe the on-going project on Rho-Ophiuchus.
-*   Chapter 7 will be dedicated to the general discussion, which will bring together three described projects.
-*   And finally in Chapter 8, I will present the conclusions of this thesis followed by the prospects for future work.
+*   **In Chapter 2**, I will give an overview of Star Formation theory and observations which are applicable to the data and work of this thesis. I follow the path: Molecular Clouds → Protostars → the outflows.
+*   **In Chapter 3**, I will describe the observations of three different types of objects that have been carried out in the course of this study, which will be followed every time by the data reduction and analysis technique description.
+*   **In Chapter 4**, I will describe the results and discussion for the Bok Globules project.
+*   **Chapter 5** will be dedicated to the results and discussion of the outflow project.
+*   **In Chapter 6**, I will describe the on-going project on Rho-Ophiuchus.
+*   **Chapter 7** will be dedicated to the general discussion, which will bring together three described projects.
+*   And finally in **Chapter 8**, I will present the conclusions of this thesis followed by the prospects for future work.
