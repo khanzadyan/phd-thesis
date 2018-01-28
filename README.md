@@ -6,3 +6,6 @@ Title: **The Near-Infrared Tracks of Protostellar Outflows** [ADS link](http://a
 Work completed at the [Armagh Observatory](http://www.arm.ac.uk/), Northern Ireland, UK. Degree awarded on **4th of July 2003** by the [The Queen’s University of Belfast](https://www.qub.ac.uk/), Northern Ireland, UK.
 
 *  [Abstract](Abstract.md)
+*  [Chapter 1](Chapter-1.md)
+
+To read the entire thesis [follow this link](https://www.researchgate.net/profile/Tigran_Khanzadyan/publication/236345199_The_Near-Infrared_Tracks_of_Protostellar_Outflows/links/0c960517d74904c0db000000.pdf).
