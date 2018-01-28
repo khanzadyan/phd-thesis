@@ -1,0 +1,30 @@
+# Acknowledgments
+
+This thesis is dedicated to my wife **Hasmik**, who deserves an award for her patience, understanding and prayers during my PhD study and the writing of this thesis. I am also grateful to my friends and relatives both in Armenia and here in Northern Ireland, who provided moral and spiritual support.
+
+I wish to thank my scientific supervisor, **Dr. Michael Smith**, for his encouragement, guidance and support during my entire PhD study at the Armagh Observatory. I would like to express my gratitude to him for being available from 8 a.m. till 11 p.m. even on Sundays. Dr.Smith gave me the freedom to pursue this research, even though sometimes it didn't quite fit into the mainstream of on-going projects. In particular, I want to thank him for teaching me how to write scientific articles, proposals, reports and, of course, this thesis.
+
+Next comes a group to whom I wish to express my gratitude for their advice and time, which gave me experience and
+knowledge in different aspects of astronomy. First, I wish to mention **Roland Gredel** who basically showed me how to observe in the infrared by using the Calar Alto 3.5 m telescope and the NTT in La Silla. His very helpful advice and crucial discussions helped me to improve the quality of my research in  all topics which are included in this thesis. **Chris Davis** also helped me with endless advice on various topics in the area of data reduction and analysis. I should like to thank him also for carrying out  high-resolution infrared observations of outflows from protostars with UKIRT, Hawaii when I was observing at the same time on Calar Alto. I should mention also **Thomas Stanke** for helping me with various topics of research and for very useful discussions which led to improvements in my knowledge. I am grateful to **Jochen Eislöffel**, who taught me the techniques of data reduction using IRAF and who gave me useful advice in my initial struggles with data reduction.
+
+Back in Armagh Observatory, I wish to especially thank **Martin Murphy** for his continuous help with computers and software installation. I wish to thank him for being available whenever I had problems and for giving endless advice for maintaining the computer correctly. I learned a lot from Martin, Thank You!
+
+I wish also to thank colleagues and friends in Armagh Observatory for being so patient with me and for creating such a friendly atmosphere. Especially I would like to express my gratitude to the Director **Mark Bailey** and Administrator **Lawrence Young** for making my PhD study possible in the first place. I also wish to thank **Margaret Cherry** and **Aileen McKee** for taking good care of everything.
+
+I wish to express my gratitude to all my teachers and colleges back in Armenia, who encouraged me to choose the road of scientific exploration. Especially I wish to thank **Tigran Movsessyan** and **Tigran Magakian** for their help during my whole study in Byurakan Observatory. Their optimism and endless encouragement for astronomy  was very influential in those difficult conditions.
+
+I should like to thank **Karl Stapelfeldt** and **Antonio Chrysostomou** for providing HH 7-11 outflow data from different epochs and for very helpful comments and discussions. In addition, I should also like to acknowledge the use of data and several on-line data bases and image archives such as:
+
+*   those based on observations collected at the German-Spanish Astronomical Centre, Calar Alto, operated by the Max-Planck-Institut für Astronomie, Heidelberg, jointly with the Spanish National Commission for Astronomy.
+*   observations collected at the European Southern Observatory, Chile (ESO No. 67.C-0284).
+*   **SIMBAD** - operated at CDS, Strasbourg, France;
+*   **2MASS** - the two micron all sky survey project, a collaboration between the University of Massachusetts and the *Infrared Processing and Analysis Center (JPL/Caltech)*;
+*   **[HiRes IPAC](http://www.ipac.caltech.edu)** -- the Infrared Processing and Analysis Center established at the NASA archival centre for the IRAS data and operated by the JPL and Caltech;
+*   **DSS**. The Digitized Sky Surveys were produced at the Space Telescope Science Institute under U.S. Government grant NAG W-2166. These images are based on photographic data obtained using the Oschin Schmidt Telescope on Palomar Mountain and the U.K. Schmidt Telescope. The plates were processed into the present compressed digital form with the permission of these institutions.
+*   **[SkyView](http://skyview.gsfc.nasa.gov/cgi-bin/skvadvanced.pl)**. SkyView was developed and is maintained under NASA ADP Grant NAS5-32068 with P.I. Thomas A. McGlynn under the auspices of the High Energy Astrophysics Science Archive Research Center (HEASARC) at the GSFC Laboratory for High Energy Astrophysics.
+
+I would like to mention the use of several data reduction and image software packages used in the course of my thesis, including
+*   **IRAF** data reduction and analysis software, written and supported by the IRAF programming group at the National Optical Astronomy Observatories (NOAO) in Tucson, Arizona. Special thanks for help in IRAF script writing goes to Rob Seaman. Thanks for support of **DIMSUM**, the *Deep Infrared Mosaicing Software, Um* IRAF contributed package goes to to Mike Fitzpatrick.
+*    Data reduction and analysis facilities provided by the **Starlink Project**, run by CCLRC/Rutherford Appleton      Laboratory on behalf of PPARC. In addition, the following Starlink packages have been used: *CCDPACK, KAPPA, GAIA, PHOTOM* and *OBSERVE*. Thanks to **Peter W. Draper** for help with GAIA and the special thanks to **Mark Taylor** for helping with CCDPACK software and letting me to use the preliminary new release version of it.
+*   **Aladin**, developed by CDS, Strasbourg, France.
+*  **IDL**, complete computing environment for the interactive analysis and visualisation of data developed and maintained by Research Systems Inc., registered in the United Stated Patent and Trademark Office.
